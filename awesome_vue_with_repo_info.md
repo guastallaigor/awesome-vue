@@ -1,6 +1,6 @@
 <p align="center">
  <br>
-  <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.svg" width="400">
+  <img alt="awesome" src="./assets/logo.svg" width="400">
    <br>
     <br>
     </br>
@@ -1560,6 +1560,12 @@
      &#9733 33, pushed 14 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/bovas85/nuxt-headless">
+     Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
+    </a>
+    by @bovas85 / @moustacheDsign
+   </li>
   </ul>
   <sup>
    &#9733 16, pushed 52 days ago
@@ -2312,6 +2318,18 @@ application.  By @Haixing-Hu
      Embalses!
     </a>
     A tool to report water dam level using the U.S. Geological Survey database.
+   </li>
+   <li>
+    <a href="https://olaolu.dev/">
+     Portfolio Site
+    </a>
+    by Olaolu Olawuyi
+   </li>
+   <li>
+    <a href="https://david-aji.com/">
+     Portfolio Site
+    </a>
+    by David Aji
    </li>
    <li>
     <a href="http://clem.travelmap.fr">
